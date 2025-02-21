@@ -3,10 +3,10 @@ import qrcode
 from PIL import Image, ImageDraw, ImageFont
 
 # Student data should be in the following format (list of dictionaries)
-# students_Data =  
+students_Data =  []
 
 # Directory to save QR codes
-SAVE_DIR = r"C:\NAS\QR\BCA 2ND SHIFT 2023"
+SAVE_DIR = r"Path to Your Directory"
 # change the directory name according to departments
 
 # Create the directory if it doesn't exist
